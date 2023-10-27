@@ -12,7 +12,7 @@ node
 npm
 npm i whatsapp-web.js (in node terminal)
 npm i qrcode-terminal (for QR code generation to work with whatsapp web)
-
+npm install whatsapp-web.js csv-parser
  
 
 Open node.js terminal and run the available JS file by making the required changes to execute. 
